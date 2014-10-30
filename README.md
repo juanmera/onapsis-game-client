@@ -1,4 +1,4 @@
 Command line client for Onapsis online game
 ===========================================
 
-* Requires python-request and python-BeautifulSoup4
+* Requires python-requests and python-BeautifulSoup4
